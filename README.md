@@ -1,4 +1,10 @@
 # sudoblark.terraform.module.aws.security_group
+[![CI](https://github.com/sudoblark/sudoblark.terraform.module.aws.security_group/actions/workflows/commit-to-pr.yaml/badge.svg)](https://github.com/sudoblark/sudoblark.terraform.module.aws.security_group/actions/workflows/commit-to-pr.yaml)
+[![Terraform Version](https://img.shields.io/badge/Terraform-1.7%2B-blueviolet?logo=terraform)](https://developer.hashicorp.com/terraform/)
+[![Registry](https://img.shields.io/badge/registry-pending-lightgrey)](https://registry.terraform.io/)
+[![License](https://img.shields.io/github/license/sudoblark/sudoblark.terraform.module.aws.security_group)](https://github.com/sudoblark/sudoblark.terraform.module.aws.security_group/blob/main/LICENSE.txt)
+
+
 Terraform module to create N number of security groups and their associated rules. - repo managed by sudoblark.terraform.github
 
 ## Developer documentation
